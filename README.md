@@ -2,10 +2,10 @@ SCANRDP – SHARE RDP DATA RDP USER PASS
 
 https://t.me/SCANRDP  
 
-## 🎯 Mục đích nhóm
-- 🔑 Chỉ share RDP  
-- ⚡ Update nhanh – dùng liền  
-- 📡 Data fresh mỗi ngày  
+##  Mục đích nhóm
+-  share RDP  
+-  chia sẻ data user pass scan
+-  Data fresh mỗi ngày  
 
 ❌ Không spam – không lan man  
 
