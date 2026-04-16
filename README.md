@@ -1,6 +1,6 @@
-# 🔥 SCANRDP – SHARE RDP ONLY 🚀
+SCANRDP – SHARE RDP DATA RDP USER PASS
 
-👉 https://t.me/SCANRDP  
+https://t.me/SCANRDP  
 
 ## 🎯 Mục đích nhóm
 - 🔑 Chỉ share RDP  
